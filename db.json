@@ -46,7 +46,7 @@
       "id": 8,
       "nama": "Zaki",
       "alamat": "Haurgelis",
-      "nohp": "123456789"
+      "nohp": "1234544649"
     },
     {
       "id": 9,
@@ -58,7 +58,37 @@
       "id": 10,
       "nama": "Lestari",
       "alamat": "Compreng",
+      "nohp": "1233446489"
+    },
+    {
+      "id": 11,
+      "nama": "Juli",
+      "alamat": "Anjatan",
       "nohp": "123456789"
+    },
+    {
+      "id": 12,
+      "nama": "Raden",
+      "alamat": "Haurgelis",
+      "nohp": "123456789"
+    },
+    {
+      "id": 13,
+      "nama": "Asep",
+      "alamat": "Mangunjaya",
+      "nohp": "12389"
+    },
+    {
+      "id": 14,
+      "nama": "Budi",
+      "alamat": "Indramayu",
+      "nohp": "123456789"
+    },
+    {
+      "id": 10,
+      "nama": "Juli",
+      "alamat": "Indramayu",
+      "nohp": "9898989"
     }
   ]
 }
