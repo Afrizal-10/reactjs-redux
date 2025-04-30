@@ -38,7 +38,7 @@
     },
     {
       "id": 7,
-      "nama": "Winda",
+      "nama": "Tosin",
       "alamat": "Compreng",
       "nohp": "123456789"
     },
@@ -56,8 +56,8 @@
     },
     {
       "id": 10,
-      "nama": "Lestari",
-      "alamat": "Compreng",
+      "nama": "Asep",
+      "alamat": "Mangunjaya",
       "nohp": "1233446489"
     },
     {
@@ -89,6 +89,36 @@
       "nama": "Juli",
       "alamat": "Indramayu",
       "nohp": "9898989"
+    },
+    {
+      "id": 16,
+      "nama": "Budi",
+      "alamat": "Indramayu",
+      "nohp": "828287335"
+    },
+    {
+      "id": 17,
+      "nama": "Juli",
+      "alamat": "Indramayu",
+      "nohp": "9898989"
+    },
+    {
+      "id": 18,
+      "nama": "Afri",
+      "alamat": "Indramayu",
+      "nohp": "9890092989"
+    },
+    {
+      "id": 19,
+      "nama": "Abang",
+      "alamat": "Indramayu",
+      "nohp": "98962533"
+    },
+    {
+      "id": 20,
+      "nama": "Akang",
+      "alamat": "Karang Jaya",
+      "nohp": "988653410"
     }
   ]
 }
